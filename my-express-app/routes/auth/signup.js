@@ -50,3 +50,6 @@ router.post("/", async (req, res, next) => {
 })
 
 module.exports = router
+
+// import { PrismaClient } from '@prisma/client'
+// const prisma = new PrismaClient()
